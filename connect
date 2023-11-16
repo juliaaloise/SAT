@@ -1,8 +1,16 @@
-<script
-  id="satws-widget-id"
-  async
-  type="text/javascript"
-  src="https://cdn.satws.com/widget/script/index.min.js"
-  data-key=feb646
-  
-/>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Webpage Title</title>
+
+  <script
+    id="satws-widget-id"
+    async
+    type="text/javascript"
+    src="https://cdn.satws.com/widget/script/index.min.js"
+    data-key=feb646
+  />
+</head>
+<body>
+  </body>
+</html>
